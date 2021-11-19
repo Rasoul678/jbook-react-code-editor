@@ -1,0 +1,18 @@
+.editor-wrapper {
+  position: relative;
+  width: calc(100% - 0.6rem);
+  height: 100%;
+}
+
+.editor-wrapper .button-format {
+  position: absolute;
+  right: 0.3rem;
+  top: 0.3rem;
+  z-index: 1000;
+  opacity: 0;
+  transition: all 0.4s ease;
+}
+
+.editor-wrapper:hover .button-format {
+  opacity: 1;
+}
