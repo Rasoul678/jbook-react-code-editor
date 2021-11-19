@@ -1,6 +1,6 @@
 {
   "name": "@js-note-678/local-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,7 +23,7 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "@js-note-678/local-client": "^1.0.0",
+    "@js-note-678/local-client": "^1.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^2.0.1"

@@ -1,6 +1,6 @@
 {
   "name": "js-note-678",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -18,10 +18,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@js-note-678/local-client": "^1.0.0"
+    "@js-note-678/local-client": "^1.0.1"
   },
   "devDependencies": {
-    "@js-note-678/local-api": "^1.0.0",
+    "@js-note-678/local-api": "^1.0.1",
     "@types/node": "^16.11.6",
     "commander": "^8.3.0",
     "esbuild": "0.8.26",
